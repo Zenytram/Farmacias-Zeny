@@ -1,0 +1,61 @@
+header{
+	width: 100%;
+	height: 100px;
+	background-color: #000054 ;
+	color: ghostwhite;
+}
+
+body{
+	background-color: #4fafff  ;
+}
+
+#uno{
+	width: 100%;
+	height: 50px;
+	background-color: #110973 ;
+}
+
+#aside{
+	font-family: arial;
+	margin: 30px 20px ;
+	width: 50%;
+	height: 300px;
+	background-color: ghostwhite;
+}
+
+nav ul{
+	width: 100%;
+	list-style-type: none;
+	text-align: center;
+
+}
+
+nav li{
+	display: inline-flex;
+}
+
+nav a{
+	color: white;
+	padding: 10px;
+	width: 150px;
+}
+
+p{
+	font-family:"Times New Roman", Times, serif;
+}
+
+footer{
+	width: 100%;
+	height: 400px;
+	background-color: #000054 ; 
+}
+
+#map{
+	width:400px;
+	height: 300px;
+	margin: 50px;
+}
+
+#f{
+	text-align: center;
+}
