@@ -148,3 +148,38 @@ section{ /*da orden a el contenido de la cabecera*/
 			/*para poner height 192 deberíamos haber indicado en el reset de estilos font-size:0;*/
 			margin-top:-100px;
 		}
+
+.container1{
+    width:100%;
+    max-width:500px;
+    padding:7px;
+    border:1px solid #000;
+    border-radius:30px;
+    margin:auto;
+    background-color:#dad5e6;
+}
+
+.formulario label{
+    display:block;
+    font-weight:bold;
+}
+
+.formulario input,.formulario select,.formulario textarea{
+    padding:5px;
+    width:100%;
+    margin:16px 0;
+}
+
+.formulario textarea{
+    resize:none;
+    height:120px;
+}
+
+#normasInput{
+    border:2px solid #ff0000;
+    display:none;
+}
+
+#normasLabel{
+    display:none;s
+}
